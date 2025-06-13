@@ -1,6 +1,3 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project for a Data Visualization class
 - 🌱 I’m currently learning how to personalize my own GitHub repository
